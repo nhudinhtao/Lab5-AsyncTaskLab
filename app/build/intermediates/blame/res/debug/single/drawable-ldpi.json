@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/taonhu/AndroidStudioProjects/Lab5-AsyncTaskLab/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/taonhu/AndroidStudioProjects/Lab5-AsyncTaskLab/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

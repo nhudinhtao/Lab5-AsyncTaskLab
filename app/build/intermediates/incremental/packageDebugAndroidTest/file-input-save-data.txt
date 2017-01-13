@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Wed Jan 04 13:23:32 ICT 2017
+1.base=/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+1.file=/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
+2.base=/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/build/intermediates/res/resources-debug-androidTest.ap_
+2.set=ANDROID_RESOURCE
+2.file=/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/build/intermediates/res/resources-debug-androidTest.ap_/AndroidManifest.xml
+count=3
+1.set=DEX
+0.set=JAVA_RESOURCE
+0.base=/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+0.file=/Users/taonhu/Downloads/coursera-android-labs-master/Lab5-AsyncTaskLab/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/com/robotium/solo/RobotiumWeb.js
